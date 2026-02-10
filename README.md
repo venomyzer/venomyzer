@@ -3,8 +3,8 @@
 ###
 
 <p align="left">
-  <strong style="font-size: 32px;">Bibek Das</strong><br/>
-  <span style="font-size: 18px;">[alias~{venomyzer, cheeezzy}]</span>
+  <strong style="font-size: 32;">Bibek Das</strong><br/>
+  <span style="font-size: 18;">[alias~{venomyzer, cheeezzy}]</span>
 </p>
 
 
