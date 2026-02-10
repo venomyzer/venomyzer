@@ -1,4 +1,4 @@
-<h1 align="left">Bibek Das [alias~{venomyzer,cheeezzy}]</h1>
+<h1 align="left">Bibek Das [alias~{venomyzer, cheeezzy}]</h1>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">🎓 Final-year CSE student | Code • Design • Learn • Repeat<br><br>☕ Java (OOP) for logic  <br>🌐 HTML, CSS, JS, React {currently grinding}   for the web  <br>🗄️ SQL (basics, but solid)  <br>🎨 UI/UX because users matter<br><br>👀 Open to internships & entry-level roles.  <br>Let’s build something cool.</h3>
+<h3 align="left">🎓 Final-year CSE student | Code • Design • Learn<br><br>☕ Java (OOP) for logic  <br>🌐 HTML, CSS, JS, React {currently grinding}<br>🗄️ SQL (basics, but solid)  <br>🎨 UI/UX because users matter<br><br>👀 Open to internships & entry-level roles.  <br>Let’s build something cool.</h3>
 
 ###
 
