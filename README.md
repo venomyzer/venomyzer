@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Bibek Das</h1>
+<h1 align="left" underline=none>Bibek Das</h1>
 <h2 align="left">[alias~{venomyzer, cheeezzy}]</h2>
 
 ###
