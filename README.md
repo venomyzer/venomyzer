@@ -1,12 +1,8 @@
-<img align="right" height="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtydTNwcTN0OHF1cXlxdWFyODZrcnQyNGl1Z3B3dXNva3Q2b29zeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VESEbRRGALYWOemYmE/giphy.gif"  />
+<h1 align="left">Bibek Das [alias~{venomyzer, cheeezzy}]</h1>
 
 ###
 
-<p align="left">
-  <strong style="font-size: 32;">Bibek Das</strong><br/>
-  <span style="font-size: 18;">[alias~{venomyzer, cheeezzy}]</span>
-</p>
-
+<img align="right" height="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtydTNwcTN0OHF1cXlxdWFyODZrcnQyNGl1Z3B3dXNva3Q2b29zeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VESEbRRGALYWOemYmE/giphy.gif"  />
 
 ###
 
