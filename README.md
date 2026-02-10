@@ -1,10 +1,8 @@
+<h1 align="left">Bibek Das [alias~{venomyzer, cheeezzy}]</h1>
 
 ###
 
-<div align="left">
-  <img height="100" src="https://ibb.co/QFHjgYCF"/>
-  
-</div>
+<img align="right" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtydTNwcTN0OHF1cXlxdWFyODZrcnQyNGl1Z3B3dXNva3Q2b29zeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VESEbRRGALYWOemYmE/giphy.gif"  />
 
 ###
 
