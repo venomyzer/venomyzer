@@ -1,22 +1,15 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     🔥 FLASHY TOP                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=venomyzer&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=62&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=venomyzer&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Coder%20And%20Designer&descAlignY=62&descSize=20&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=475&lines=Full+Stack+Developer;Open+Source+Enthusiast;Graphic+Designer)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Graphic+Designer" />
 
 </div>
 
+
 <br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    🧼 CLEAN MIDDLE                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br/>
 
 ## 🧑‍💻 About Me
 
@@ -30,11 +23,14 @@ const venomyzer = {
 };
 ```
 
----
+<br/>
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+<br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,java,spring&theme=dark&perline=10" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,docker,git,github,postman,figma&theme=dark&perline=10" />
@@ -43,6 +39,7 @@ const venomyzer = {
 </div>
 
 <br/>
+<br/>
 
 - **Frontend :** HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, Sass
 - **Backend :** Java, Spring Boot, Node.js, Express.js, REST APIs, GraphQL
@@ -50,22 +47,21 @@ const venomyzer = {
 - **DevOps & Cloud :** Docker, AWS, Nginx, GitHub Actions, Linux
 - **Tools :** Git, GitHub, Postman, DBeaver, Figma, IntelliJ IDEA, VS Code, Jest, Webpack
 
----
+<br/>
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venomyzer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="165"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=venomyzer&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=ff6e6e&currStreakLabel=A78BFA" width="55%"/>
 
 </div>
 
----
+<br/>
+<br/>
 
 ## 🚀 Currently
 
@@ -73,9 +69,12 @@ const venomyzer = {
 - 📖 Going deep on system design & distributed systems
 - 🛠️ Building full-stack projects with React + Spring Boot
 
----
+<br/>
+<br/>
 
 ## 📬 Connect
+
+<br/>
 
 <div align="center">
 
@@ -86,9 +85,8 @@ const venomyzer = {
 
 </div>
 
----
+<br/>
 
-## 🐍 Watch the Snake Eat My Contributions
 
 <div align="center">
 
@@ -99,43 +97,6 @@ const venomyzer = {
 </picture>
 
 </div>
-
-<details>
-<summary>🔧 Click here for Snake setup instructions</summary>
-
-Create `.github/workflows/snake.yml` in your repo with this content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: venomyzer
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Settings → Actions → General → Workflow permissions** and set it to **Read and write permissions**. Run the action once manually and the snake SVG will be live!
-
-</details>
-
----
 
 
 <div align="center">
