@@ -1,60 +1,186 @@
-<h1 align="left">Bibek Das [alias~{venomyzer, cheeezzy}]</h1>
-
-###
-
-<img align="right" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtydTNwcTN0OHF1cXlxdWFyODZrcnQyNGl1Z3B3dXNva3Q2b29zeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VESEbRRGALYWOemYmE/giphy.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/venomyzer/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/venomyzertm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
-  </a>
-  <a href="bibekdastm@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/venomyzer" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">🎓 Final-year CSE student | Code • Design • Learn<br><br>☕ Java (OOP) for logic  <br>🌐 HTML, CSS, JS, React {currently grinding}<br>🗄️ SQL (basics, but solid)  <br>🎨 UI/UX because users matter<br><br>👀 Open to internships & entry-level roles.  <br>Let’s build something cool.</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<br clear="both">
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     🔥 FLASHY TOP                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V1a3VnZjZxejR6MWU4cGJ1MnNzaHQ3c28zdWx5anMwMXM4eW5xZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cSN9nWQBYMzymIDZ5S/giphy.gif"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=venomyzer&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=62&descSize=20&animation=fadeIn" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=475&lines=Full+Stack+Developer;Open+Source+Enthusiast;Graphic+Designer)](https://git.io/typing-svg)
+
 </div>
 
-###
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    🧼 CLEAN MIDDLE                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🧑‍💻 About Me
+
+```javascript
+const venomyzer = {
+  role     : "Full-Stack Developer",
+  stack    : ["React", "Spring Boot", "PostgreSQL"],
+  languages: ["JavaScript", "TypeScript", "Java"],
+  focus    : "Open Source Contributions 🌐",
+  motto    : "Ship it. Then make it better.",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndyazNhODQ3bjBqNWJ2bTVrZDNnbXo2YW9mZHRjZzRjazUzY3JzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MbpIQQDlTyedX8EuXT/giphy.gif"  />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,java,spring&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,docker,git,github,postman,figma&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,linux,aws,nginx,redis,graphql,python,c,cpp&theme=dark&perline=10" />
+
 </div>
 
-###
+<br/>
+
+- **Frontend :** HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, Sass
+- **Backend :** Java, Spring Boot, Node.js, Express.js, REST APIs, GraphQL
+- **Databases :** PostgreSQL, MySQL, MongoDB, Redis
+- **DevOps & Cloud :** Docker, AWS, Nginx, GitHub Actions, Linux
+- **Tools :** Git, GitHub, Postman, DBeaver, Figma, IntelliJ IDEA, VS Code, Jest, Webpack
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venomyzer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=venomyzer&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=ff6e6e&currStreakLabel=A78BFA" width="55%"/>
+
+</div>
+
+---
+
+## 🚀 Currently
+
+- 🌍 Contributing to Open Source — fixing bugs, writing docs, opening PRs
+- 📖 Going deep on system design & distributed systems
+- 🛠️ Building full-stack projects with React + Spring Boot
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venomyzer)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/venomyzer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venomyzer.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venomyzer@gmail.com)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  🎉 FUN BOTTOM ZONE                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🎧 Spotify — What I'm Listening To
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=A78BFA&bar_color_cover=false)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+
+</div>
+
+> ⚠️ **Setup:** Visit [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com), sign in with Spotify, copy your UID, and replace `YOUR_SPOTIFY_USER_ID` above.
+
+---
+
+## 🎮 Steam — Recently Played
+
+<div align="center">
+
+[![Steam](https://img.shields.io/badge/Steam-venomyzer-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/venomyzer)
+
+<img src="https://steam-stat.vercel.app/api?profileName=venomyzer" alt="Steam Stats" />
+
+</div>
+
+> ⚠️ **Setup:** Replace `venomyzer` in the URL above with your actual Steam custom URL name.
+
+---
+
+## 🐍 Watch the Snake Eat My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venomyzer/venomyzer/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venomyzer/venomyzer/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/venomyzer/venomyzer/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<details>
+<summary>🔧 Click here for Snake setup instructions</summary>
+
+Create `.github/workflows/snake.yml` in your repo with this content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: venomyzer
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Settings → Actions → General → Workflow permissions** and set it to **Read and write permissions**. Run the action once manually and the snake SVG will be live!
+
+</details>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=venomyzer&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" />
+
+</div>
