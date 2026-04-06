@@ -88,36 +88,6 @@ const venomyzer = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  🎉 FUN BOTTOM ZONE                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🎧 Spotify — What I'm Listening To
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=A78BFA&bar_color_cover=false)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
-</div>
-
-> ⚠️ **Setup:** Visit [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com), sign in with Spotify, copy your UID, and replace `YOUR_SPOTIFY_USER_ID` above.
-
----
-
-## 🎮 Steam — Recently Played
-
-<div align="center">
-
-[![Steam](https://img.shields.io/badge/Steam-venomyzer-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/venomyzer)
-
-<img src="https://steam-stat.vercel.app/api?profileName=venomyzer" alt="Steam Stats" />
-
-</div>
-
-> ⚠️ **Setup:** Replace `venomyzer` in the URL above with your actual Steam custom URL name.
-
----
-
 ## 🐍 Watch the Snake Eat My Contributions
 
 <div align="center">
@@ -167,15 +137,6 @@ Then go to **Settings → Actions → General → Workflow permissions** and set
 
 ---
 
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
-
-</div>
-
----
 
 <div align="center">
 
